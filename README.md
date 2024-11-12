@@ -47,9 +47,27 @@
 
 ## Output:
 ![374873089-1aca1216-5f27-4074-97a7-d408ed0b1e24](https://github.com/user-attachments/assets/fc913d67-2150-4448-a930-19816a8f58fb)
+<BR/>
+<BR/>
 
 ### Name: GURUMURTHY S
 ### Register Number:212223230066
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
